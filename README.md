@@ -1,9 +1,4 @@
-### Hi there 👋
-
 [Check out my website](https://joinemm.me)
-
-🌱 Currently learning Rust    
-💬 Ask me about mechanical keyboards
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=joinemm&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
