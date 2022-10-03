@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=joinemm&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117ff">
+   <img src="https://streak-stats.demolab.com/?user=joinemm&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117ff">
   </a>
 </p>
 
