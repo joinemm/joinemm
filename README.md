@@ -12,5 +12,5 @@
   <img src="https://lanyard.cnrad.dev/api/133311691852218378?bg=0d1117">
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2500&vCenter=true&width=200&lines=Arch+Linux+Enthusiast;Full+Stack+Developer;Rust+Evangelist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=2500&vCenter=true&width=300&lines=Arch+Linux+Enthusiast;Full+Stack+Developer;Rust+Evangelist;DevOps+Unicorn)](https://git.io/typing-svg)
 
