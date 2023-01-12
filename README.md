@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joinemm&hide_title=true&theme=github_dark&border_radius=10&layout=default&langs_count=5&line_height=28&hide_border=true" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joinemm&hide_title=true&theme=github_dark&border_radius=10&layout=default&langs_count=5&line_height=28&hide_border=true" />
 </a>
 
 <a href="https://discord.com/users/133311691852218378">
