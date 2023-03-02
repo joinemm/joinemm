@@ -7,6 +7,6 @@
   </a>
 </p>
 
-|◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤| 👋 Welcome to my profile |
+|◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤| 👋 Welcome to my profile |
 |-|-|
 | <img align="left" width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joinemm&theme=radical&langs_count=7&bg_color=00000000"> | <img align="left" src="https://github-readme-stats.vercel.app/api?username=joinemm&show_icons=true&theme=radical&bg_color=00000000&custom_title=Github%20Stats&card_width=495"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=joinemm&theme=radical&bg_color=00000000"> |
