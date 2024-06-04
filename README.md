@@ -1,6 +1,6 @@
-<p align="center">
+<h4 align="center">
   You are visitor #
-</p>
+</h4>
 <p align="center">
   <img src="https://profile-counter.glitch.me/joinemm/count.svg">
 </p>
