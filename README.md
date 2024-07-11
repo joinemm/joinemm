@@ -1,15 +1,17 @@
-<h4 align="center">
-  You are visitor #
-</h4>
 <p align="center">
+  <img align="left" width=150px src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+
+  ### Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
+
   <img src="https://profile-counter.glitch.me/joinemm/count.svg">
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-   <img src="https://streak-stats.demolab.com/?user=joinemm&theme=elegant&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117ff">
-  </a>
+
+  I'm a **DevOps Engineer** who is passionate about **Open source** and **Privacy**.
+  <a href="https://joinemm.dev" target="_blank">Check out my blog.</a>
 </p>
 
-|◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤| 👋 Welcome to my profile |
-|-|-|
-| <img align="left" width="365" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joinemm&theme=radical&langs_count=7&bg_color=0D1117ff&exclude_repo=cube-boi,dwm,dwmblocks"> | <img align="left" src="https://github-readme-stats.vercel.app/api?username=joinemm&show_icons=true&theme=radical&bg_color=0D1117ff&custom_title=Github%20Stats&card_width=495"><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=joinemm&theme=radical&custom_title=Wakatime%20Weekly%20Stats&bg_color=0D1117ff&layout=compact&langs_count=6&range=last_7_days"> |
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=joinemm&show_icons=true&theme=github_dark&border_radius=0&custom_title=Github%20Stats&card_width=320">
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joinemm&theme=github_dark&border_radius=0&langs_count=5&card_width=320&custom_title=Wakatime%20Stats">
+</a>
