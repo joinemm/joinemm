@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/joinemm/count.svg">
 
   I'm a **DevOps Engineer** who is passionate about **Open source** and **Privacy**.
-  <a href="https://joinemm.dev" target="_blank">Check out my blog.</a>
+  <a href="https://joinemm.dev/blog" target="_blank">Check out my blog.</a>
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
