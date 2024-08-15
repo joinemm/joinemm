@@ -5,7 +5,7 @@
 
   <img src="https://profile-counter.glitch.me/joinemm/count.svg">
 
-  I'm a **DevOps Engineer** who is passionate about **Open source** and **Privacy**.
+  DevOps Engineer, Open Source advocate and Privacy enthusiast.
   <a href="https://joinemm.dev/blog" target="_blank">Check out my blog.</a>
 </p>
 
