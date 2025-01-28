@@ -1,6 +1,6 @@
 <big><pre>
 **\> whoami**
-DevOps Engineer, Open Source advocate and privacy conscious individual.
+DevOps Engineer, Open Source advocate and privacy-conscious individual.
 
 **\> echo $BLOG**
 [joinemm.dev/blog](https://joinemm.dev/blog)
