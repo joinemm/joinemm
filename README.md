@@ -12,5 +12,5 @@ DevOps Engineer, Open Source advocate and privacy-conscious individual.
 </span>
 <span> </span>
 <a href="https://wakatime.com/@joinemm">
-  <img src="https://github-readme-stats-seven-rouge-75.vercel.app/api/wakatime?username=joinemm&theme=github_dark&border_radius=6px&hide_border=true&bg_color=151b23&langs_count=6&layout=compact&custom_title=Wakatime%20Stats%20(last%20week)">
+  <img src="https://github-readme-stats-seven-rouge-75.vercel.app/api/wakatime?username=joinemm&api_domain=wakapi.dev&theme=github_dark&border_radius=6px&hide_border=true&bg_color=151b23&langs_count=6&layout=compact&custom_title=Wakatime%20Stats%20(last%20week)">
 </a>
